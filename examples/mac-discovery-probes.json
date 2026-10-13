@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Application enumeration request",
+    "tool": "list_apps",
+    "arguments": {}
+  },
+  {
+    "name": "Window enumeration request",
+    "tool": "list_windows",
+    "arguments": {}
+  }
+]

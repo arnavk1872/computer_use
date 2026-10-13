@@ -1,0 +1,7 @@
+{
+  "driver": {"command": "cua-driver", "args": ["mcp"]},
+  "model": {
+    "base_url": "http://localhost:8000/v1",
+    "model": "replace-with-your-served-vision-tool-model"
+  }
+}
