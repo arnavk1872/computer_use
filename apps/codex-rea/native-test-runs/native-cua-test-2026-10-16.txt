@@ -1,0 +1,4 @@
+Codex native computer use test
+Calculator: 7 × 8 = 56
+Scientific: √81 = 9
+TextEdit paste and save verification.
